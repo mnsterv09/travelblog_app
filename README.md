@@ -1,6 +1,6 @@
-# untitled
+# Travel Blog App
 
-A new Flutter project.
+A Travel Blog App model based on Flutter.
 
 ## Getting Started
 
